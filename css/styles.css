@@ -1,0 +1,23 @@
+body {
+  background-color: #F4DFD0;
+}
+
+hr {
+  border-style: none;
+  border-top-style: solid;
+  border-top-color: black;
+  border-width: 1px;
+  width: 100%
+}
+
+h1 {
+  color:black;
+}
+
+h3 {
+  color:black;
+}
+
+/* table {
+  border-spacing: 10px;
+} */
